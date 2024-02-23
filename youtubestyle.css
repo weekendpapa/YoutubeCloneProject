@@ -4,10 +4,15 @@
 }
 
 .searchbar {
-    font-size: 20px;
-    margin-left: 10px;
+    display: block;
 }
 
 .video-title {
     width: 300px;
+}
+
+.video-preview {
+    width: 300px;
+    display: inline-block;
+    vertical-align: top;
 }
